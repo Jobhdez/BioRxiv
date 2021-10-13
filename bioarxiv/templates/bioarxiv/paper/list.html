@@ -7,5 +7,7 @@
 <a>
 {{ paper.abstract }}
 </a>
+</h2>
 {% endfor %}
+{% include "pagination.html" with page=papers %}
 {% endblock %}
