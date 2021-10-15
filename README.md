@@ -1,12 +1,20 @@
 # bioRxiv-web
 a Django web app 
 
-# what does it do?
-This web app was an exercise to learn how to populate or seed the databse using an external api. In this case I used the BioRxiv api.
+## Why does this web app exist?
+Learning exercise
 
-I have also, in another exercise, implemented pagination. So, I have an idea of how to implement this.
+## what does it do?
+Features:
+* Use of an external api to seed the databse
+* Pagination
 
-# Using the web app
 
-After you clone this: `git clone https://github.com/Jobhdez/BioRxiv.git`, and have run `python3 manage.py runserver`, point your browser to `http://127.0.0.1:8000/bioarxiv/` and you will see abstracts of research papers with pagination.
+## Using the web app
 
+Clone the repo: `git clone https://github.com/Jobhdez/BioRxiv.git`
+run: `python3 manage.py runserver`
+point your browser to: `http://127.0.0.1:8000/bioarxiv/` 
+
+## License 
+MIT License
