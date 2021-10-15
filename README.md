@@ -13,7 +13,9 @@ Features:
 ## Using the web app
 
 Clone the repo: `git clone https://github.com/Jobhdez/BioRxiv.git`
+
 run: `python3 manage.py runserver`
+
 point your browser to: `http://127.0.0.1:8000/bioarxiv/` 
 
 ## License 
