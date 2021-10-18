@@ -8,6 +8,7 @@ Learning exercise
 Features:
 * Use of an external api to seed the databse
 * Pagination
+* REST API
 
 
 ## Using the web app
