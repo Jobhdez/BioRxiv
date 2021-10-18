@@ -18,5 +18,10 @@ run: `python3 manage.py runserver`
 
 point your browser to: `http://127.0.0.1:8000/bioarxiv/` 
 
+also point to: `https://127.0.0.1:8000/api`
+
+## Whats not currently working?
+API does not currently return individual papers.
+
 ## License 
 MIT License
