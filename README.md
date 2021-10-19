@@ -10,6 +10,10 @@ Features:
 * Pagination
 * REST API
 
+## Requirements
+Django: `pip install django`
+
+Rest Framework: `pip install djangorestframework`
 
 ## Using the web app
 
