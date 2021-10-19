@@ -1,12 +1,14 @@
 # bioRxiv-web
-a Django web app 
+A web app that lists 100 or so research papers, with pagination, from BioRxiv. It includes a REST API that allows you to access the data and post new research papers.
+
+Here is a link to [BioRxiv](https://www.biorxiv.org/) and here is a link to its [api](https://api.biorxiv.org/).
 
 ## Why does this web app exist?
 Learning exercise
 
 ## what does it do?
 Features:
-* Use of an external api to seed the databse
+* Use of an external api to seed the database
 * Pagination
 * REST API
 
